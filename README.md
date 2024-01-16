@@ -6,6 +6,6 @@ Step into the Imaginarium-Archive, a repository housing a compilation of my arti
 
 # <p>Login-Register UI</p>
 
-<img src="https://github.com/Alarick-Alfikry/Imaginarium-Archive/blob/main/login-register%20ui%20mockup.png" />
+<img src="https://github.com/Alarick-Alfikry/Imaginarium-Archive/blob/main/Login-Register%20UI%20Mockup.png" />
 
 [See the design in action!](https://www.figma.com/proto/ul4hCFh6ArUvKtNEamk5mW/Imaginarium?type=design&node-id=1-99&t=TbwHzfg7TSympGtT-1&scaling=min-zoom&page-id=1%3A98&mode=design)
